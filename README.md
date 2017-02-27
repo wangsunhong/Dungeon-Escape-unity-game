@@ -3,10 +3,12 @@ Unity游戏地牢逃生 Dungeon Escape unity game
 
 开发工具版本：unity 4.6
 
+[在线试玩][1]
+
 **游戏简介**
 
-![screenshot][1]
 ![screenshot][2]
+![screenshot][3]
 
 　　“处处笙歌明月夜，家家笑语绮窗花”，就在这么一个和谐的地方，谁也没有想到，整个国度会突然被黑暗包围，周遭的一切都变得死气沉沉。身为一国之主，塞顿带领着他的部下，去寻找和毁灭黑势力的根源。不幸的是，随着黑势力的逐渐扩大，他的随从也一个个随之消失，而他已置身于迷宫般的黑暗之中，孤军奋战的冒险也就此开始。
 
@@ -28,9 +30,10 @@ Unity游戏地牢逃生 Dungeon Escape unity game
 
 **开发手册**
 
-[Dungeon Escape Cookbook][3]
+[Dungeon Escape Cookbook][4]
 
-
-  [1]: https://github.com/wangsunhong/Dungeon-Escape-unity-game/blob/master/screenshot.png
-  [2]: https://github.com/wangsunhong/Dungeon-Escape-unity-game/blob/master/screenshot2.png
-  [3]: https://github.com/wangsunhong/Dungeon-Escape-unity-game/blob/master/Dungeon%20Escape%20Cookbook.pdf
+  [1]: http://wangsunhong.github.io/Dungeon-Escape-unity-game/
+  [2]: https://github.com/wangsunhong/Dungeon-Escape-unity-game/blob/master/screenshot.png
+  [3]: https://github.com/wangsunhong/Dungeon-Escape-unity-game/blob/master/screenshot2.png
+  [4]: https://github.com/wangsunhong/Dungeon-Escape-unity-game/blob/master/Dungeon%20Escape%20Cookbook.pdf
+  
