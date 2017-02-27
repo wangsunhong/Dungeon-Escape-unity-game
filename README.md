@@ -33,7 +33,7 @@ Unity游戏地牢逃生 Dungeon Escape unity game
 [Dungeon Escape Cookbook][4]
 
   [1]: http://wangsunhong.github.io/Dungeon-Escape-unity-game/
-  [2]: https://github.com/wangsunhong/Dungeon-Escape-unity-game/blob/master/screenshot.png
-  [3]: https://github.com/wangsunhong/Dungeon-Escape-unity-game/blob/master/screenshot2.png
-  [4]: https://github.com/wangsunhong/Dungeon-Escape-unity-game/blob/master/Dungeon%20Escape%20Cookbook.pdf
+  [2]: https://github.com/wangsunhong/Dungeon-Escape-unity-game/blob/master/screenshot.png
+  [3]: https://github.com/wangsunhong/Dungeon-Escape-unity-game/blob/master/screenshot2.png
+  [4]: https://github.com/wangsunhong/Dungeon-Escape-unity-game/blob/master/Dungeon%20Escape%20Cookbook.pdf
   
